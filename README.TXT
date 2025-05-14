@@ -1,3 +1,13 @@
+    ____  ____  ______                                       __ 
+   / __ \/ __ \/_  __/________ _____  _________  ____  _____/ /_
+  / / / / /_/ / / / / ___/ __ `/ __ \/ ___/ __ \/ __ \/ ___/ __/
+ / /_/ / ____/ / / / /  / /_/ / / / (__  ) /_/ / /_/ / /  / /_  
+/_____/_/     /_/ /_/   \__,_/_/ /_/____/ .___/\____/_/   \__/  
+                                       /_/                      
+DPTransport es un proyecto de introducción de Java que ejecuta una simulación fictícea de redes de taxis y clientes.  
+Los clientes aparecen aleatoriamente por los alrededores del mapa y los taxis se desplazan en cada iteración de casilla en casilla para recogerlos, llevarlos a su destino y cobrarlos.  
+Creado para la asignatura de Desarrollo de Programas del Grado de Ingeniería en Ingeniería del Software en la UEx año 2023/2024.
+
 Proyecto hecho por:
     - Manuel Alonso González.
     - David de Miguel Palomino.
